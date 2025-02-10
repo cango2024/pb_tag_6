@@ -1,0 +1,19 @@
+Aufgaben
+📝 Übungsaufgabe: Warenkorb-Verwaltung mit Array-Methoden
+Aufgabe:
+Schreibe ein Programm, das eine Warenkorb-Verwaltung simuliert.
+
+
+1 Erstelle ein Array warenkorb mit den Produkten: "Apfel", "Banane", "Kirsche", "Orange".
+
+2 Überprüfe, ob "Kirsche" im Warenkorb enthalten ist, und gib den Index aus.
+
+3 Entferne das zuletzt hinzugefügte Produkt und speichere es in einer Variablen.
+
+4 Füge "Mango" am Anfang des Arrays hinzu.
+
+5 Kehre die Reihenfolge des Arrays um.
+
+6 Ersetze das zweite Element im Array durch "Wassermelone".
+
+7 Gib den aktuellen Stand des Warenkorbs aus.
